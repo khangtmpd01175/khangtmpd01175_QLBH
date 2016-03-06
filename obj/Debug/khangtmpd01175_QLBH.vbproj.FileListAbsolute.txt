@@ -1,0 +1,8 @@
+D:\Google Drive\FPT Polytechinc\Assignment\khangtmpd01175_ASS_INF205_GD2\khangtmpd01175_web\khangtmpd01175_QLBH\khangtmpd01175_QLBH\bin\khangtmpd01175_QLBH.dll
+D:\Google Drive\FPT Polytechinc\Assignment\khangtmpd01175_ASS_INF205_GD2\khangtmpd01175_web\khangtmpd01175_QLBH\khangtmpd01175_QLBH\bin\khangtmpd01175_QLBH.pdb
+D:\Google Drive\FPT Polytechinc\Assignment\khangtmpd01175_ASS_INF205_GD2\khangtmpd01175_web\khangtmpd01175_QLBH\khangtmpd01175_QLBH\bin\khangtmpd01175_QLBH.xml
+D:\Google Drive\FPT Polytechinc\Assignment\khangtmpd01175_ASS_INF205_GD2\khangtmpd01175_web\khangtmpd01175_QLBH\khangtmpd01175_QLBH\obj\Debug\khangtmpd01175_QLBH.Resources.resources
+D:\Google Drive\FPT Polytechinc\Assignment\khangtmpd01175_ASS_INF205_GD2\khangtmpd01175_web\khangtmpd01175_QLBH\khangtmpd01175_QLBH\obj\Debug\khangtmpd01175_QLBH.vbproj.GenerateResource.Cache
+D:\Google Drive\FPT Polytechinc\Assignment\khangtmpd01175_ASS_INF205_GD2\khangtmpd01175_web\khangtmpd01175_QLBH\khangtmpd01175_QLBH\obj\Debug\khangtmpd01175_QLBH.dll
+D:\Google Drive\FPT Polytechinc\Assignment\khangtmpd01175_ASS_INF205_GD2\khangtmpd01175_web\khangtmpd01175_QLBH\khangtmpd01175_QLBH\obj\Debug\khangtmpd01175_QLBH.xml
+D:\Google Drive\FPT Polytechinc\Assignment\khangtmpd01175_ASS_INF205_GD2\khangtmpd01175_web\khangtmpd01175_QLBH\khangtmpd01175_QLBH\obj\Debug\khangtmpd01175_QLBH.pdb
